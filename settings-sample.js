@@ -36,7 +36,7 @@ export default class Settings {
 
     // geocoding api key, see
     // https://developers.google.com/maps/documentation/geocoding/intro
-    this.GEOCODING_API_KEY = '';
+    this.GEOCODING_API_KEY = 'AIzaSyD8sjR3DfeaiqDqJAPibW3BoWWqy--QmXY ';
 
     Object.assign(this, overrides);
   }
